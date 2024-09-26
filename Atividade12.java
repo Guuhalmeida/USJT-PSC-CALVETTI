@@ -25,7 +25,7 @@ public class Atividade12 {
         }
 
         String resultadoFinal = "Total de pessoas com menos de 21 anos: " + contadorMenosDe21 +
-                                 "\nTotal de pessoas com mais de 50 anos: " + contadorMaisDe50;
+                                 "Total de pessoas com mais de 50 anos: " + contadorMaisDe50;
 
         JOptionPane.showMessageDialog(null, resultadoFinal);
     }
